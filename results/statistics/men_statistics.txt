@@ -1,0 +1,52 @@
+Diary: 1
+Total of barriers: 7
+Total of intersections:1
+
+Diary: 2
+Total of barriers: 3
+Total of intersections:0
+
+Diary: 3
+Total of barriers: 8
+Total of intersections:1
+
+Diary: 4
+Total of barriers: 11
+Total of intersections:9
+
+Diary: 5
+Total of barriers: 7
+Total of intersections:0
+
+Diary: 6
+Total of barriers: 6
+Total of intersections:4
+
+Diary: 7
+Total of barriers: 7
+Total of intersections:3
+
+Diary: 8
+Total of barriers: 27
+Total of intersections:8
+
+Diary: 9
+Total of barriers: 7
+Total of intersections:6
+
+Diary: 10
+Total of barriers: 37
+Total of intersections:9
+
+Diary: 11
+Total of barriers: 11
+Total of intersections:2
+
+Diary: 12
+Total of barriers: 4
+Total of intersections:2
+
+Diary: 13
+Total of barriers: 14
+Total of intersections:8
+
